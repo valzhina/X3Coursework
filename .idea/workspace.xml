@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cb98a7c-d7ec-47d9-bd65-3ead83441a9f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unit2/Main.java" afterDir="false" />
+    <list default="true" id="9cb98a7c-d7ec-47d9-bd65-3ead83441a9f" name="Changes" comment="Push and Commit Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,21 @@
       <option name="presentableId" value="Default" />
       <updated>1664390617744</updated>
     </task>
+    <task id="LOCAL-00001" summary="Push and Commit Test">
+      <created>1664391681128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664391681128</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Push and Commit Test">
+      <created>1664391777708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664391777708</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -48,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Push and Commit Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push and Commit Test" />
   </component>
 </project>
