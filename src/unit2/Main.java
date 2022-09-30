@@ -1,5 +1,6 @@
 package unit2;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -90,12 +91,12 @@ class Cupcake{ //public new class named Cupcake
 
 class RedVelvet extends Cupcake{
     public void type(){
-        System.out.println("A red velvet based cupcake, with cream cheese frosting."); //overrides the behavior of the inherited method
+        System.out.println("A red velvet based cupcake, with cream cheese frosting"); //overrides the behavior of the inherited method
     }
 }
 class Chocolate extends Cupcake{
     public void type(){
-        System.out.println("A chocolate based cupcake, with chocolate frosting."); //overrides the behavior of the inherited method
+        System.out.println("A chocolate based cupcake, with chocolate frosting"); //overrides the behavior of the inherited method
     }
 }
 
@@ -107,9 +108,9 @@ class Drink{
 }
 
 class Soda extends Drink{
-    public void type(){System.out.println("A bottle of soda.");}
+    public void type(){System.out.println("A bottle of soda");}
 }
 
 class Milk extends Drink{
-    public void type(){System.out.println("A bottle of milk.");}
+    public void type(){System.out.println("A bottle of milk");}
 }
