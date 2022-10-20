@@ -1,0 +1,14 @@
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/configuration/Config.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/services/UserServiceImpl.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/services/NoteService.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/dtos/UserDto.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/repositories/NoteRepository.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/controllers/NoteController.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/controllers/UserController.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/NoteAppApplication.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/services/NoteServiceImpl.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/entites/User.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/entites/Note.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/repositories/UserRepository.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/dtos/NoteDto.java
+/Users/valzhina/Documents/BackToSchool_2022/WalmartHackbright_Fall/noteApp/src/main/java/com/devmountain/noteApp/services/UserService.java
